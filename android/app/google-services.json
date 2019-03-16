@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "827159004150",
+    "firebase_url": "https://flutterfire-cbbec.firebaseio.com",
+    "project_id": "flutterfire-cbbec",
+    "storage_bucket": "flutterfire-cbbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827159004150:android:b3fd8c2a4a3ef27e",
+        "android_client_info": {
+          "package_name": "com.example.firestorebasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827159004150-pc7v00goea3hs5uot6bl8tu96qil5a9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2nFB7XTCsDTS4R7uDiSi3DWs8MlsOwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
