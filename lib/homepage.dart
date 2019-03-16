@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
               RaisedButton(
                 child: Text("Log Out"),
                 elevation: 7.0,
-                color: Colors.purple,
+                color: Colors.blue,
                 onPressed: () {
                   FirebaseAuth.instance.signOut().then((value) {
                     Navigator.of(context).pushReplacementNamed('/');
